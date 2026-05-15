@@ -1,10 +1,10 @@
-# 🏦 FNOL Claims Processing Agent
+ FNOL Claims Processing Agent
 
 An autonomous AI agent that processes **First Notice of Loss (FNOL)** insurance documents — extracting key fields, detecting missing data, classifying claims, and routing them to the correct workflow.
 
 ---
 
-## 📁 Project Structure
+ Project Structure
 fnol-agent/
 ├── agent.py              # Main agent script
 ├── requirements.txt      # Python dependencies
@@ -18,7 +18,7 @@ fnol-agent/
 
 ---
 
-## ⚙️ How It Works
+ How It Works
 
 1. **Read** each FNOL document from `sample_fnols/`
 2. **Extract** key fields using Groq (LLaMA 3.1 8B)
@@ -37,7 +37,7 @@ fnol-agent/
 
 ---
 
-## 🚀 Steps to Run
+ Steps to Run
 
 ### 1. Clone the repository
 ```bash
@@ -81,7 +81,7 @@ Results are saved in the `outputs/` folder as JSON files.
 
 ---
 
-## 📤 Output Format
+ Output Format
 
 ```json
 {
@@ -109,7 +109,7 @@ Results are saved in the `outputs/` folder as JSON files.
 
 ---
 
-## 📊 Test Results
+ Test Results
 
 | File | Route | Notes |
 |------|-------|-------|
@@ -120,14 +120,13 @@ Results are saved in the `outputs/` folder as JSON files.
 | fnol_005.txt | ⚡ Fast-track | All fields present, low damage |
 
 ---
-
-## 📝 Adding Your Own FNOL Files
+ Adding Your Own FNOL Files
 
 Drop any `.txt` FNOL document into `sample_fnols/` and run `agent.py` again.
 The agent will automatically pick up and process all files.
 
 ---
 
-## 👤 Author
+ Author
 
 Built for the Insurance Claims Processing Agent Assessment.
