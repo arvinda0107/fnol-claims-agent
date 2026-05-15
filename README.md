@@ -1,4 +1,4 @@
-# 🏦 FNOL Claims Processing Agent
+ FNOL Claims Processing Agent
 
 An autonomous AI agent that processes **First Notice of Loss (FNOL)** insurance documents — extracting key fields, detecting missing data, classifying claims, and routing them to the correct workflow.
 
