@@ -1,0 +1,34 @@
+FIRST NOTICE OF LOSS - CLAIM FORM
+==================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-33019
+Policyholder Name: Vikram Singh
+Policy Effective Date: 2024-03-01
+Policy Expiry Date: 2025-03-01
+
+INCIDENT INFORMATION
+--------------------
+Date of Incident: 2024-11-01
+Time of Incident: 23:45
+Location: Outer Ring Road, Bengaluru
+Description: The accident appears staged. Witness accounts are inconsistent with the damage pattern. Vehicle shows signs of prior damage inconsistent with reported incident.
+
+INVOLVED PARTIES
+----------------
+Claimant: Vikram Singh
+Third Party: Unknown
+Contact Details: vikram.singh@email.com | +91-9988776655
+
+ASSET DETAILS
+-------------
+Asset Type: Motor Vehicle
+Asset ID: KA-05-CD-5678
+Estimated Damage: 45000
+
+CLAIM DETAILS
+-------------
+Claim Type: Motor
+Attachments: photos.jpg
+Initial Estimate: 45000

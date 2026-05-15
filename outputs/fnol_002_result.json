@@ -1,0 +1,29 @@
+{
+  "extractedFields": {
+    "policy_number": "POL-2023-55210",
+    "policyholder_name": "Anitha Rao",
+    "policy_effective_date": "2023-06-01",
+    "policy_expiry_date": "2024-06-01",
+    "incident_date": "2024-10-20",
+    "incident_time": "09:15",
+    "incident_location": "Whitefield, Bengaluru",
+    "incident_description": "Slip and fall accident at workplace. Employee fell on wet floor with no warning sign. Sustained fracture in left wrist and minor head injury. Hospitalized for 3 days.",
+    "claimant_name": "Anitha Rao",
+    "third_party": "XYZ Tech Pvt Ltd (Employer)",
+    "contact_details": "anitha.rao@email.com | +91-9123456780",
+    "asset_type": null,
+    "asset_id": null,
+    "estimated_damage": 75000,
+    "claim_type": "Injury",
+    "attachments": [
+      "medical_report.pdf",
+      "hospital_bill.pdf"
+    ],
+    "initial_estimate": 75000
+  },
+  "missingFields": [
+    "asset_type"
+  ],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim type is 'Injury'. Requires specialist medical assessment team."
+}

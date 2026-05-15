@@ -1,5 +1,3 @@
-# fnol-claims-agent
-AI agent that automates FNOL insurance claims processing — extracts fields, detects missing data, and routes claims using Groq + LLaMA 3.1 (free tier)
 # 🏦 FNOL Claims Processing Agent
 
 An autonomous AI agent that processes **First Notice of Loss (FNOL)** insurance documents — extracting key fields, detecting missing data, classifying claims, and routing them to the correct workflow.
