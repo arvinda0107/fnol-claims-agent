@@ -4,7 +4,7 @@ An autonomous AI agent that processes **First Notice of Loss (FNOL)** insurance 
 
 ---
 
-## 🎯 Problem Statement
+ Problem Statement
 
 Insurance companies receive hundreds of FNOL documents daily. Processing them manually is:
 - ⏰ Slow — 10 to 15 minutes per document
